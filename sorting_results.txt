@@ -1,0 +1,1825 @@
+
+Run started at: 2023-10-25 00:14:13
+
+
+Run 1 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^1 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run ended at: 2023-10-25 00:14:13
+
+Run started at: 2023-10-25 00:14:42
+
+
+Run 1 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001002 seconds
+
+--------------------------------------------------
+
+Run 4 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000998 seconds
+
+--------------------------------------------------
+
+Run 1 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001001 seconds
+
+--------------------------------------------------
+
+Run 3 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 4 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.001001 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000998 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 2 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 5 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^2 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run ended at: 2023-10-25 00:14:42
+
+Run started at: 2023-10-25 00:14:55
+
+
+Run 1 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 3 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001001 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 4 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.001045 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 1 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.011000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.022000 seconds
+
+--------------------------------------------------
+
+Run 2 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.011000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.022000 seconds
+
+--------------------------------------------------
+
+Run 3 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.010999 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.021509 seconds
+
+--------------------------------------------------
+
+Run 4 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.012000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.021095 seconds
+
+--------------------------------------------------
+
+Run 5 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.010953 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.023000 seconds
+
+--------------------------------------------------
+
+Run 1 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.010000 seconds
+Time taken to sort increasing numbers: 0.010001 seconds
+Time taken to sort decreasing numbers: 0.011514 seconds
+
+--------------------------------------------------
+
+Run 2 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.010997 seconds
+Time taken to sort increasing numbers: 0.010003 seconds
+Time taken to sort decreasing numbers: 0.011999 seconds
+
+--------------------------------------------------
+
+Run 3 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.011000 seconds
+Time taken to sort increasing numbers: 0.010000 seconds
+Time taken to sort decreasing numbers: 0.011999 seconds
+
+--------------------------------------------------
+
+Run 4 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.011003 seconds
+Time taken to sort increasing numbers: 0.011002 seconds
+Time taken to sort decreasing numbers: 0.011511 seconds
+
+--------------------------------------------------
+
+Run 5 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.010998 seconds
+Time taken to sort increasing numbers: 0.010000 seconds
+Time taken to sort decreasing numbers: 0.010999 seconds
+
+--------------------------------------------------
+
+Run 1 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.025000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.032003 seconds
+
+--------------------------------------------------
+
+Run 2 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.027628 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.033002 seconds
+
+--------------------------------------------------
+
+Run 3 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.026999 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.032510 seconds
+
+--------------------------------------------------
+
+Run 4 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.026000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.030002 seconds
+
+--------------------------------------------------
+
+Run 5 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.025959 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.031507 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.024001 seconds
+Time taken to sort decreasing numbers: 0.016997 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.025006 seconds
+Time taken to sort decreasing numbers: 0.016506 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.024000 seconds
+Time taken to sort decreasing numbers: 0.017000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.022001 seconds
+Time taken to sort decreasing numbers: 0.018000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.023508 seconds
+Time taken to sort decreasing numbers: 0.016001 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000998 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001001 seconds
+Time taken to sort increasing numbers: 0.001005 seconds
+Time taken to sort decreasing numbers: 0.000996 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.001001 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.001006 seconds
+Time taken to sort decreasing numbers: 0.000995 seconds
+
+--------------------------------------------------
+
+Run 1 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.002002 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 2 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.002000 seconds
+Time taken to sort increasing numbers: 0.001999 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 3 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.002000 seconds
+Time taken to sort increasing numbers: 0.002000 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 4 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001001 seconds
+Time taken to sort increasing numbers: 0.001998 seconds
+Time taken to sort decreasing numbers: 0.001000 seconds
+
+--------------------------------------------------
+
+Run 5 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000999 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.002000 seconds
+
+--------------------------------------------------
+
+Run 1 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001001 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 2 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001004 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 3 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000998 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 0.001007 seconds
+
+--------------------------------------------------
+
+Run 5 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000995 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.001003 seconds
+
+--------------------------------------------------
+
+Run 1 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 2 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000999 seconds
+
+--------------------------------------------------
+
+Run 3 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 4 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.000000 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run 5 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^3 numbers:
+Time taken to sort random numbers: 0.001001 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 0.000000 seconds
+
+--------------------------------------------------
+
+Run ended at: 2023-10-25 00:14:56
+
+Run started at: 2023-10-25 00:15:03
+
+
+Run 1 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.014044 seconds
+Time taken to sort increasing numbers: 0.005002 seconds
+Time taken to sort decreasing numbers: 0.008952 seconds
+
+--------------------------------------------------
+
+Run 2 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.014003 seconds
+Time taken to sort increasing numbers: 0.004505 seconds
+Time taken to sort decreasing numbers: 0.009000 seconds
+
+--------------------------------------------------
+
+Run 3 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.013000 seconds
+Time taken to sort increasing numbers: 0.005000 seconds
+Time taken to sort decreasing numbers: 0.008000 seconds
+
+--------------------------------------------------
+
+Run 4 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.012997 seconds
+Time taken to sort increasing numbers: 0.006000 seconds
+Time taken to sort decreasing numbers: 0.008001 seconds
+
+--------------------------------------------------
+
+Run 5 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.013002 seconds
+Time taken to sort increasing numbers: 0.005000 seconds
+Time taken to sort decreasing numbers: 0.008508 seconds
+
+--------------------------------------------------
+
+Run 1 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^4 numbers:
+Time taken to sort random numbers: 1.177278 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 2.295585 seconds
+
+--------------------------------------------------
+
+Run 2 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^4 numbers:
+Time taken to sort random numbers: 1.163983 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 2.286409 seconds
+
+--------------------------------------------------
+
+Run 3 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^4 numbers:
+Time taken to sort random numbers: 1.156961 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 2.309068 seconds
+
+--------------------------------------------------
+
+Run 4 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^4 numbers:
+Time taken to sort random numbers: 1.156415 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 2.306855 seconds
+
+--------------------------------------------------
+
+Run 5 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^4 numbers:
+Time taken to sort random numbers: 1.165463 seconds
+Time taken to sort increasing numbers: 0.000999 seconds
+Time taken to sort decreasing numbers: 2.315334 seconds
+
+--------------------------------------------------
+
+Run 1 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.986951 seconds
+Time taken to sort increasing numbers: 0.981819 seconds
+Time taken to sort decreasing numbers: 1.089830 seconds
+
+--------------------------------------------------
+
+Run 2 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.982850 seconds
+Time taken to sort increasing numbers: 0.975260 seconds
+Time taken to sort decreasing numbers: 1.073550 seconds
+
+--------------------------------------------------
+
+Run 3 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.977142 seconds
+Time taken to sort increasing numbers: 0.979936 seconds
+Time taken to sort decreasing numbers: 1.084107 seconds
+
+--------------------------------------------------
+
+Run 4 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.991235 seconds
+Time taken to sort increasing numbers: 0.992089 seconds
+Time taken to sort decreasing numbers: 1.074178 seconds
+
+--------------------------------------------------
+
+Run 5 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.976865 seconds
+Time taken to sort increasing numbers: 0.973439 seconds
+Time taken to sort decreasing numbers: 1.077963 seconds
+
+--------------------------------------------------
+
+Run 1 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^4 numbers:
+Time taken to sort random numbers: 2.586976 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 3.253639 seconds
+
+--------------------------------------------------
+
+Run 2 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^4 numbers:
+Time taken to sort random numbers: 2.571888 seconds
+Time taken to sort increasing numbers: 0.001002 seconds
+Time taken to sort decreasing numbers: 3.267541 seconds
+
+--------------------------------------------------
+
+Run 3 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^4 numbers:
+Time taken to sort random numbers: 2.566152 seconds
+Time taken to sort increasing numbers: 0.001000 seconds
+Time taken to sort decreasing numbers: 3.277317 seconds
+
+--------------------------------------------------
+
+Run 4 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^4 numbers:
+Time taken to sort random numbers: 2.584390 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 3.251921 seconds
+
+--------------------------------------------------
+
+Run 5 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^4 numbers:
+Time taken to sort random numbers: 2.574135 seconds
+Time taken to sort increasing numbers: 0.000000 seconds
+Time taken to sort decreasing numbers: 3.283027 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.008716 seconds
+Time taken to sort increasing numbers: 2.290659 seconds
+Time taken to sort decreasing numbers: 1.580182 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.008000 seconds
+Time taken to sort increasing numbers: 2.268166 seconds
+Time taken to sort decreasing numbers: 1.578469 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.009000 seconds
+Time taken to sort increasing numbers: 2.276521 seconds
+Time taken to sort decreasing numbers: 1.559777 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.007002 seconds
+Time taken to sort increasing numbers: 2.270258 seconds
+Time taken to sort decreasing numbers: 1.573714 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.007999 seconds
+Time taken to sort increasing numbers: 2.305852 seconds
+Time taken to sort decreasing numbers: 1.591126 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.012000 seconds
+Time taken to sort increasing numbers: 0.010000 seconds
+Time taken to sort decreasing numbers: 0.009000 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.012002 seconds
+Time taken to sort increasing numbers: 0.009000 seconds
+Time taken to sort decreasing numbers: 0.009505 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.011000 seconds
+Time taken to sort increasing numbers: 0.010000 seconds
+Time taken to sort decreasing numbers: 0.009000 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.012000 seconds
+Time taken to sort increasing numbers: 0.010000 seconds
+Time taken to sort decreasing numbers: 0.010000 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.012002 seconds
+Time taken to sort increasing numbers: 0.009506 seconds
+Time taken to sort decreasing numbers: 0.009000 seconds
+
+--------------------------------------------------
+
+Run 1 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.019000 seconds
+Time taken to sort increasing numbers: 0.019170 seconds
+Time taken to sort decreasing numbers: 0.018101 seconds
+
+--------------------------------------------------
+
+Run 2 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.019004 seconds
+Time taken to sort increasing numbers: 0.020509 seconds
+Time taken to sort decreasing numbers: 0.018000 seconds
+
+--------------------------------------------------
+
+Run 3 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.018999 seconds
+Time taken to sort increasing numbers: 0.020000 seconds
+Time taken to sort decreasing numbers: 0.017004 seconds
+
+--------------------------------------------------
+
+Run 4 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.019000 seconds
+Time taken to sort increasing numbers: 0.018000 seconds
+Time taken to sort decreasing numbers: 0.017000 seconds
+
+--------------------------------------------------
+
+Run 5 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.020000 seconds
+Time taken to sort increasing numbers: 0.020508 seconds
+Time taken to sort decreasing numbers: 0.018005 seconds
+
+--------------------------------------------------
+
+Run 1 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.007000 seconds
+Time taken to sort increasing numbers: 0.007999 seconds
+Time taken to sort decreasing numbers: 0.008000 seconds
+
+--------------------------------------------------
+
+Run 2 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.007002 seconds
+Time taken to sort increasing numbers: 0.007998 seconds
+Time taken to sort decreasing numbers: 0.007999 seconds
+
+--------------------------------------------------
+
+Run 3 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.006000 seconds
+Time taken to sort increasing numbers: 0.008090 seconds
+Time taken to sort decreasing numbers: 0.007961 seconds
+
+--------------------------------------------------
+
+Run 4 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.006000 seconds
+Time taken to sort increasing numbers: 0.007042 seconds
+Time taken to sort decreasing numbers: 0.008002 seconds
+
+--------------------------------------------------
+
+Run 5 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.007039 seconds
+Time taken to sort increasing numbers: 0.006960 seconds
+Time taken to sort decreasing numbers: 0.008000 seconds
+
+--------------------------------------------------
+
+Run 1 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.003000 seconds
+Time taken to sort increasing numbers: 0.002000 seconds
+Time taken to sort decreasing numbers: 0.002001 seconds
+
+--------------------------------------------------
+
+Run 2 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.003000 seconds
+Time taken to sort increasing numbers: 0.002000 seconds
+Time taken to sort decreasing numbers: 0.002000 seconds
+
+--------------------------------------------------
+
+Run 3 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.002001 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 0.003003 seconds
+
+--------------------------------------------------
+
+Run 4 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.002999 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 0.002506 seconds
+
+--------------------------------------------------
+
+Run 5 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^4 numbers:
+Time taken to sort random numbers: 0.002991 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 0.003001 seconds
+
+--------------------------------------------------
+
+Run ended at: 2023-10-25 00:16:25
+
+Run started at: 2023-10-25 00:16:36
+
+
+Run 1 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.248069 seconds
+Time taken to sort increasing numbers: 0.069744 seconds
+Time taken to sort decreasing numbers: 0.107541 seconds
+
+--------------------------------------------------
+
+Run 2 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.240763 seconds
+Time taken to sort increasing numbers: 0.066973 seconds
+Time taken to sort decreasing numbers: 0.106513 seconds
+
+--------------------------------------------------
+
+Run 3 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.246119 seconds
+Time taken to sort increasing numbers: 0.067596 seconds
+Time taken to sort decreasing numbers: 0.105619 seconds
+
+--------------------------------------------------
+
+Run 4 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.248855 seconds
+Time taken to sort increasing numbers: 0.068506 seconds
+Time taken to sort decreasing numbers: 0.106759 seconds
+
+--------------------------------------------------
+
+Run 5 for Shell Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Shell Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.247817 seconds
+Time taken to sort increasing numbers: 0.067021 seconds
+Time taken to sort decreasing numbers: 0.106575 seconds
+
+--------------------------------------------------
+
+Run 1 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^5 numbers:
+Time taken to sort random numbers: 135.885277 seconds
+Time taken to sort increasing numbers: 0.005000 seconds
+Time taken to sort decreasing numbers: 233.387022 seconds
+
+--------------------------------------------------
+
+Run 2 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^5 numbers:
+Time taken to sort random numbers: 135.889929 seconds
+Time taken to sort increasing numbers: 0.004982 seconds
+Time taken to sort decreasing numbers: 230.610116 seconds
+
+--------------------------------------------------
+
+Run 3 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^5 numbers:
+Time taken to sort random numbers: 127.745920 seconds
+Time taken to sort increasing numbers: 0.005001 seconds
+Time taken to sort decreasing numbers: 230.410014 seconds
+
+--------------------------------------------------
+
+Run 4 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^5 numbers:
+Time taken to sort random numbers: 127.720615 seconds
+Time taken to sort increasing numbers: 0.004999 seconds
+Time taken to sort decreasing numbers: 230.457817 seconds
+
+--------------------------------------------------
+
+Run 5 for Insertion Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Insertion Sort for 10^5 numbers:
+Time taken to sort random numbers: 127.687776 seconds
+Time taken to sort increasing numbers: 0.005003 seconds
+Time taken to sort decreasing numbers: 230.218487 seconds
+
+--------------------------------------------------
+
+Run 1 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^5 numbers:
+Time taken to sort random numbers: 103.949178 seconds
+Time taken to sort increasing numbers: 96.692323 seconds
+Time taken to sort decreasing numbers: 106.340548 seconds
+
+--------------------------------------------------
+
+Run 2 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^5 numbers:
+Time taken to sort random numbers: 103.571926 seconds
+Time taken to sort increasing numbers: 96.510312 seconds
+Time taken to sort decreasing numbers: 106.234301 seconds
+
+--------------------------------------------------
+
+Run 3 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^5 numbers:
+Time taken to sort random numbers: 103.501072 seconds
+Time taken to sort increasing numbers: 96.532197 seconds
+Time taken to sort decreasing numbers: 106.228756 seconds
+
+--------------------------------------------------
+
+Run 4 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^5 numbers:
+Time taken to sort random numbers: 105.254267 seconds
+Time taken to sort increasing numbers: 96.522896 seconds
+Time taken to sort decreasing numbers: 106.144762 seconds
+
+--------------------------------------------------
+
+Run 5 for Selection Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Selection Sort for 10^5 numbers:
+Time taken to sort random numbers: 103.533915 seconds
+Time taken to sort increasing numbers: 96.525471 seconds
+Time taken to sort decreasing numbers: 106.139974 seconds
+
+--------------------------------------------------
+
+Run 1 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^5 numbers:
+Time taken to sort random numbers: 270.442816 seconds
+Time taken to sort increasing numbers: 0.003001 seconds
+Time taken to sort decreasing numbers: 323.312657 seconds
+
+--------------------------------------------------
+
+Run 2 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^5 numbers:
+Time taken to sort random numbers: 271.710613 seconds
+Time taken to sort increasing numbers: 0.002000 seconds
+Time taken to sort decreasing numbers: 327.820569 seconds
+
+--------------------------------------------------
+
+Run 3 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^5 numbers:
+Time taken to sort random numbers: 275.704678 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 327.825398 seconds
+
+--------------------------------------------------
+
+Run 4 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^5 numbers:
+Time taken to sort random numbers: 275.536662 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 327.742193 seconds
+
+--------------------------------------------------
+
+Run 5 for Bubble Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bubble Sort for 10^5 numbers:
+Time taken to sort random numbers: 275.394601 seconds
+Time taken to sort increasing numbers: 0.003000 seconds
+Time taken to sort decreasing numbers: 327.779968 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.098550 seconds
+Time taken to sort increasing numbers: 228.733238 seconds
+Time taken to sort decreasing numbers: 158.032183 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.098510 seconds
+Time taken to sort increasing numbers: 228.869391 seconds
+Time taken to sort decreasing numbers: 158.870321 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.098557 seconds
+Time taken to sort increasing numbers: 228.423130 seconds
+Time taken to sort decreasing numbers: 155.777120 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.089008 seconds
+Time taken to sort increasing numbers: 225.788288 seconds
+Time taken to sort decreasing numbers: 157.970512 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Quick Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Quick Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.089549 seconds
+Time taken to sort increasing numbers: 225.643280 seconds
+Time taken to sort decreasing numbers: 155.096385 seconds
+
+--------------------------------------------------
+
+Run 1 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.144639 seconds
+Time taken to sort increasing numbers: 0.113518 seconds
+Time taken to sort decreasing numbers: 0.111586 seconds
+
+--------------------------------------------------
+
+Run 2 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.148064 seconds
+Time taken to sort increasing numbers: 0.114581 seconds
+Time taken to sort decreasing numbers: 0.112620 seconds
+
+--------------------------------------------------
+
+Run 3 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.146550 seconds
+Time taken to sort increasing numbers: 0.113578 seconds
+Time taken to sort decreasing numbers: 0.113519 seconds
+
+--------------------------------------------------
+
+Run 4 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.147474 seconds
+Time taken to sort increasing numbers: 0.114621 seconds
+Time taken to sort decreasing numbers: 0.112545 seconds
+
+--------------------------------------------------
+
+Run 5 for Iterative Merge Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Iterative Merge Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.145677 seconds
+Time taken to sort increasing numbers: 0.116105 seconds
+Time taken to sort decreasing numbers: 0.111564 seconds
+
+--------------------------------------------------
+
+Run 1 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.227456 seconds
+Time taken to sort increasing numbers: 0.226664 seconds
+Time taken to sort decreasing numbers: 0.208108 seconds
+
+--------------------------------------------------
+
+Run 2 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.229699 seconds
+Time taken to sort increasing numbers: 0.226230 seconds
+Time taken to sort decreasing numbers: 0.207168 seconds
+
+--------------------------------------------------
+
+Run 3 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.226543 seconds
+Time taken to sort increasing numbers: 0.225133 seconds
+Time taken to sort decreasing numbers: 0.208615 seconds
+
+--------------------------------------------------
+
+Run 4 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.228296 seconds
+Time taken to sort increasing numbers: 0.225091 seconds
+Time taken to sort decreasing numbers: 0.207126 seconds
+
+--------------------------------------------------
+
+Run 5 for Heap Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Heap Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.229901 seconds
+Time taken to sort increasing numbers: 0.226107 seconds
+Time taken to sort decreasing numbers: 0.207028 seconds
+
+--------------------------------------------------
+
+Run 1 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.090506 seconds
+Time taken to sort increasing numbers: 0.095546 seconds
+Time taken to sort decreasing numbers: 0.094484 seconds
+
+--------------------------------------------------
+
+Run 2 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.091640 seconds
+Time taken to sort increasing numbers: 0.093043 seconds
+Time taken to sort decreasing numbers: 0.094581 seconds
+
+--------------------------------------------------
+
+Run 3 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.090543 seconds
+Time taken to sort increasing numbers: 0.093550 seconds
+Time taken to sort decreasing numbers: 0.094579 seconds
+
+--------------------------------------------------
+
+Run 4 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.090583 seconds
+Time taken to sort increasing numbers: 0.094542 seconds
+Time taken to sort decreasing numbers: 0.094555 seconds
+
+--------------------------------------------------
+
+Run 5 for Radix Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Radix Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.090549 seconds
+Time taken to sort increasing numbers: 0.095549 seconds
+Time taken to sort decreasing numbers: 0.093520 seconds
+
+--------------------------------------------------
+
+Run 1 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.039004 seconds
+Time taken to sort increasing numbers: 0.027025 seconds
+Time taken to sort decreasing numbers: 0.026515 seconds
+
+--------------------------------------------------
+
+Run 2 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.034999 seconds
+Time taken to sort increasing numbers: 0.025515 seconds
+Time taken to sort decreasing numbers: 0.026033 seconds
+
+--------------------------------------------------
+
+Run 3 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.034543 seconds
+Time taken to sort increasing numbers: 0.026004 seconds
+Time taken to sort decreasing numbers: 0.024998 seconds
+
+--------------------------------------------------
+
+Run 4 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.034003 seconds
+Time taken to sort increasing numbers: 0.025028 seconds
+Time taken to sort decreasing numbers: 0.025045 seconds
+
+--------------------------------------------------
+
+Run 5 for Bucket Sort:
+Time taken to sort list of random, increasing, and decreasing numbers using Bucket Sort for 10^5 numbers:
+Time taken to sort random numbers: 0.036969 seconds
+Time taken to sort increasing numbers: 0.027004 seconds
+Time taken to sort decreasing numbers: 0.027519 seconds
+
+--------------------------------------------------
+
+Run ended at: 2023-10-25 02:34:37
